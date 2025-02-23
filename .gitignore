@@ -1,6 +1,8 @@
 .vs
 obj
 bin
+/Release
+*.user
 
 /Sources/Controls/AForge.Controls.xml
 /Sources/Core/AForge.xml
@@ -18,3 +20,4 @@ bin
 /Sources/Video.VFW/AForge.Video.VFW.xml
 /Sources/Video/AForge.Video.xml
 /Sources/Vision/AForge.Vision.xml
+
