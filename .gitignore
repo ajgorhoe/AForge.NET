@@ -21,3 +21,4 @@ bin
 /Sources/Video/AForge.Video.xml
 /Sources/Vision/AForge.Vision.xml
 
+*.log
